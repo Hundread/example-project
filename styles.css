@@ -1,8 +1,10 @@
 * {
     background-color: #00353e;
     color: #aecc53;
+    font-family:'Roboto Condensed', Courier, monospace ;
 }
 
-.img{
-    size: 2rem;
+.proj img{
+    width: 10rem;;
+    height:10rem;
 }
